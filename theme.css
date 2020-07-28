@@ -1,0 +1,37 @@
+.b1
+{
+  font-size: xx-large;
+  color: darkred;
+  background-color: #b3d4fc;
+  width: fit-content;
+  height: fit-content;
+
+
+}
+.b2
+{
+  direction: ltr;
+
+
+}
+dl dt
+{
+  font-size: 30px;
+  color: #b3d4fc;
+}
+dl dd
+{
+  font-size: 16px;
+  color: darkred;
+}
+ul li
+{
+  list-style: none;
+  background-image: url("pic/arrow1.png");
+  background-repeat: no-repeat;
+  padding-left: 25px;
+
+}
+
+
+
